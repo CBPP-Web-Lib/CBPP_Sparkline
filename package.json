@@ -1,0 +1,11 @@
+{
+  "name": "cbpp_sparkline",
+  "version": "1.0.0",
+  "description": "basic sparklines",
+  "main": "cbpp_sparkline.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Kasprak",
+  "license": "ISC"
+}
